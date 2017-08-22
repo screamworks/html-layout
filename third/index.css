@@ -1,0 +1,51 @@
+.l1{
+  background-color: #D8D8D8;
+  height: 20vh;
+  width: 100%;
+}
+
+.box {
+ background-color: #4A90E2;
+ position: absolute;
+ height: 20vh;
+ width: 10%;
+}
+
+.l2{
+ background-color: #FFFFFF;
+ height: 30vh;
+ width: 100%;
+}
+
+.l3{
+ background-color: #4A90E2;
+ height: 20vh;
+ width: 100%;
+}
+
+.l4{
+ background-color: #50E3C2;
+ height: 20vh;
+ width: 100%;
+}
+
+.l5{
+ background-color: #F8E71C;
+ height: 20vh;
+ width: 100%;
+
+}
+
+.l6{
+ background-color: #B8E986;
+ height: 20vh;
+ width: 100%;
+
+}
+
+p {
+ text-align: left;
+ margin: 5%;
+ font-size: 200%;
+
+}
